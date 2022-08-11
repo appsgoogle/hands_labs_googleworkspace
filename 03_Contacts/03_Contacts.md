@@ -23,4 +23,15 @@
 
 ![Contactos Valle Grande](../images/contacts-vg.png)
 
-2. 
+2. Crear las siguientes etiquetas:
+   - MONITORES
+   - GESTION_ACADEMICA
+   - TESORERO
+3. Organizar los contactos agregados de acuerdo a la siguiente tabla:
+
+![Etiquetas para contactos](../images/etiquetas-contactos-vg.png)
+
+4. Exportar las listas de contacto referentes a las etiquetas: MONITORES y GESTION_ACADEMICA.
+   
+5. Descargar el archivo [AS222.csv](https://drive.google.com/file/d/1FjYCUohRs4TEWCZsreA1JqisASfEMh0P/view?usp=sharing) e importar los datos de contacto de sus compañeros a su libreta de direcciones.
+
