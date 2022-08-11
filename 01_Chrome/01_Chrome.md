@@ -52,7 +52,6 @@
 - Ctrl + H -> abrir el historial de navegación.
 - Ctrl + J -> abre la página de descargas. 
 
----
 ## :orange_book: Recursos
 
 - [Instructivo Google Chrome](https://sites.google.com/vallegrande.edu.pe/sitechrom/inicio)
@@ -60,7 +59,6 @@
 - [Tips de productividad con Chrome](https://youtu.be/KXY-2fIAksY)
 - [Google Chrome Help](https://support.google.com/chrome/?hl=en#topic=)
 
----
 ## :bulb: Actividades
 
 1. Descargar e instalar el navegador Google Chrome.

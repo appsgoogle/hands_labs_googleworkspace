@@ -19,9 +19,8 @@
 - Zoom.
 - Docusign.
 
----
 ## :orange_book: Recursos
----
+
 - [Instructivo sobre Gmail](https://sites.google.com/vallegrande.edu.pe/vallegrande-app-g4mail/funcionalidades)
 - [Cambiar de idioma el entorno de Gmail](https://youtu.be/iMayUXJXBJs?list=PLU8ezI8GYqs71VB6FVQI-gDuo-hsVgKdg)
 - [Crear reglas de filtro para los correos](https://youtu.be/A6xO1A1tyzc)
@@ -29,9 +28,8 @@
 - [10 consejos alucinantes para el mejor uso de Gmail](https://youtu.be/3_6eRpTkBD8)
 - [Gmail training and help](https://support.google.com/a/users/answer/9259748?hl=en)
 
----
 ## :bulb: Actividades
----
+
 1. Actualizar sus datos en su perfil de Gmail.
 2. Crear una firma personalizada con sus datos personales.
 3. Crear una etiqueta para cada unidad didáctica de acuerdo a las siguientes siglas:

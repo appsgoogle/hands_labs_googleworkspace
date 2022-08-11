@@ -11,16 +11,14 @@
 - Búsqueda de contactos en la libreta de direcciones
 - Generar libreta de contactos en formato ***pdf***
 
----
 ## :orange_book: Recursos
----
+
 - [Qué podemos hacer con Google Contacts](https://support.google.com/a/users/answer/9310345?hl=en)
 - [Añadir, mover o importar contactos](https://support.google.com/contacts/answer/1069522?hl=es&ref_topic=9160153)
 - [Editar o eliminar contactos](https://support.google.com/contacts/answer/7280886?hl=es&ref_topic=9160153)
 
----
 ## :bulb: Actividades
----
+
 1. Crear los siguientes contactos en su libreta de direcciones:
 
 ![Contactos Valle Grande](../images/contacts-vg.png)
