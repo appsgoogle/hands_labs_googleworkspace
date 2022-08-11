@@ -54,7 +54,7 @@
 
 ---
 ## :orange_book: Recursos
----
+
 - [Instructivo Google Chrome](https://sites.google.com/vallegrande.edu.pe/sitechrom/inicio)
 - [Cómo utilizar Google Chrome](https://youtu.be/LpxedaKMMCk)
 - [Tips de productividad con Chrome](https://youtu.be/KXY-2fIAksY)
@@ -62,7 +62,7 @@
 
 ---
 ## :bulb: Actividades
----
+
 1. Descargar e instalar el navegador Google Chrome.
 2. Crear dos perfiles en chrome:
     - VG con su correo institucional
